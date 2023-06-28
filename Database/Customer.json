@@ -1,0 +1,42 @@
+[
+  {
+    "fullNameCustomer": {
+      "firstName": "Quách Huy Hiếu",
+      "lastName:": "Hiếu"
+    },
+    "dateOfBirth": "05/05/2001",
+    "sex": true,
+    "address": "Tân Hội, Đan Phượng, Hà Nội",
+    "phoneNumber": "0327977049",
+    "email": "huyhieu1239@gmail.com",
+    "listProduct": [],
+    "listFavorite": [],
+    "loginInformation": {
+      "userName": "huyhieu1",
+      "password": "hieu1234",
+      "type": "User",
+      "roles": ["Normal"]
+    },
+    "avatar": "/public/images/avatar-2.jpg"
+  },
+  {
+    "fullNameCustomer": {
+      "firstName": "Quách Huy",
+      "lastName:": "Hiếu"
+    },
+    "dateOfBirth": "05/05/2001",
+    "sex": true,
+    "address": "Tân Hội, Đan Phượng, Hà Nội",
+    "phoneNumber": "0327977049",
+    "email": "huyhieu1239@gmail.com",
+    "listProduct": [],
+    "listFavorite": [],
+    "loginInformation": {
+      "userName": "huyhieu2",
+      "password": "hieu1234",
+      "type": "User",
+      "roles": ["Normal"]
+    },
+    "avatar": "/public/images/avatar-2.jpg"
+  }
+]

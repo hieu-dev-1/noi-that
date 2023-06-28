@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "60929cd56ce96574b4508dbf"
+    },
+    "fullNameCustomer": {
+      "firstName": "Quách Huy",
+      "lastName": "Hiếu"
+    },
+    "dateOfBirth": "05/05/2001",
+    "address": "Hà Nội",
+    "phoneNumber": "0327977049",
+    "email": "huyhieu1239@gmail.com",
+    "loginInformation": {
+      "userName": "admin",
+      "password": "admin",
+      "type": "Admin",
+      "roles": ["All"]
+    },
+    "avatar": "/uploads/user-01.png"
+  }
+]
